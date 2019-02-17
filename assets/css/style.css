@@ -1,0 +1,51 @@
+body{
+    background-color: #B8E4FA;
+    font-family: 'Courier New', Courier, monospace;
+    color: #3A7288;
+    background-image: url(../images/bg.jpg)
+
+}
+
+h1{
+    font-family: 'Amatic SC', cursive;
+    color: #3A7288;
+    font-size: 80px;
+}
+
+h2{
+    font-family: 'Amatic SC', cursive;
+    color: #3A7288;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h3{
+    font-family: 'Amatic SC', cursive;
+    color: #3A7288;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.header{
+    padding:  50px 0 20px 0;
+    
+}
+
+.container{
+    margin-top: 20px;
+    background-color: #B8E4FA;;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+}
+
+.btn {
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #fff;
+    letter-spacing: 3px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #3A7288;
+    border: 0px;
+}
+
